@@ -18,6 +18,23 @@
   font-weight: none;
 }
 
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-track {
+  /* background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgb(88, 18, 173) 0%, rgb(33, 109, 184) 90% ); */
+  background-color: #11253D;
+  /* background-color: #62C975; */
+  border-radius: 0px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #62C975;
+  /* background-color: #11253D; */
+  border-radius: 30px;
+}
+
 .princioalArticle{
   display:flex;
   flex-direction: column;
