@@ -8,7 +8,7 @@ import {
 import { TbGps } from "react-icons/tb";
 import { MdOutlineMail } from "react-icons/md";
 import { VscFilePdf } from "react-icons/vsc";
-import cv from '../files/modeloCurriculo.pdf';
+import cv from '../files/curriculum vitæ.pdf';
 import '../css/Contato.css';
 
 export default function Contact() {
